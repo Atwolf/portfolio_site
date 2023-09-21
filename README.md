@@ -1,8 +1,9 @@
-# React + Vite
+# Aakash's Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Portfolio website displays my skills in react, javascript, and tailwind-css. All resources used in this website were taken from various sources, which can be found below:
 
-Currently, two official plugins are available:
+Credits:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [General Layout](https://www.youtube.com/watch?v=0fYi8SGA20k&t=4974s&pp=ygUUM2QgcG9ydGZvbGlvIHdlYnNpdGU%3D)  credit to Javascript Mastery on Youtube for giving me starting code and a working layout.
+- [Hero Image](https://sketchfab.com/3d-models/2021-lamborghini-countach-lpi-800-4-d76b94884432422b966d1a7f8815afb5) the Hero Image is a render taken from this 3D model on sketchfab.
+- [Coffee Cup](https://sketchfab.com/3d-models/stylized-ice-coffees-pack-67c75da8e9fa43429a7437e883297f43) the 3D Stylized Coffee Cup near the contact form was a model found here.
